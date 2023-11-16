@@ -1,3 +1,3 @@
 # basis-data
-nama: faiza putri azzahra
-nim: 20220801290
+Nama: Faiza Putri Azzahra
+NIM: 20220801290
